@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://androiddagashi.github.io/</id>
+    <title>Android Dagashi</title>
+    <updated>2021-07-11T10:40:27.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Android Dagashi</name>
+        <uri>https://androiddagashi.github.io/</uri>
+    </author>
+    <link rel="alternate" href="https://androiddagashi.github.io/"/>
+    <link rel="self" href="https://androiddagashi.github.io/feed.xml"/>
+    <subtitle>Weekly Android developer news digest in Japanese</subtitle>
+    <icon>https://androiddagashi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Android Dagashi</rights>
+    <category term="Android"/>
+    <contributor>
+        <name>@_yshrsmz</name>
+        <uri>https://twitter.com/_yshrsmz</uri>
+    </contributor>
+    <contributor>
+        <name>@hydrakecat</name>
+        <uri>https://twitter.com/hydrakecat</uri>
+    </contributor>
+    <contributor>
+        <name>@STAR_ZERO</name>
+        <uri>https://twitter.com/STAR_ZERO</uri>
+    </contributor>
+    <contributor>
+        <name>@stsn_jp</name>
+        <uri>https://twitter.com/stsn_jp</uri>
+    </contributor>
+    <entry>
+        <title type="html"><![CDATA[#180 2021-07-11]]></title>
+        <id>https://androiddagashi.github.io/issue/180-2021-07-11</id>
+        <link href="https://androiddagashi.github.io/issue/180-2021-07-11"/>
+        <updated>2021-07-11T10:40:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google Play servicesのJelly Beanサポートが終了、Now in Android エピソード42、Jetpack Composeのスクリーンショットテストについて、など。</p>
+Google Play servicesのJelly Beanサポートが終了/Now in Android エピソード42/Jetpack Composeのスクリーンショットテストについて/Play Services経由でTensorFlow Liteが使えるように/Android Studio Bumblebee Canary 3/Material Components 1.4.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#179 2021-07-04]]></title>
+        <id>https://androiddagashi.github.io/issue/179-2021-07-04</id>
+        <link href="https://androiddagashi.github.io/issue/179-2021-07-04"/>
+        <updated>2021-07-04T10:32:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2.2, スコープストレージに関するよくある誤解, Kotlin Multiplatform のユーザ調査が実施中, DroidKaigi 2021のオンライン開催, など</p>
+Android Studio 4.2.2/repeatOnLifecycleのAPI設計/FoldableでのExoPlayerのサンプル/スコープストレージに関するよくある誤解/Navigation - Live Q&A/DroidKaigi 2021のオンライン開催/2021年6月30日のAndroidXリリース/2021年7月1日のAndroidXリリース/Kotlin Multiplatform のユーザ調査が実施中/Android Studio Arctic Fox beta 5]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#178 2021-06-27]]></title>
+        <id>https://androiddagashi.github.io/issue/178-2021-06-27</id>
+        <link href="https://androiddagashi.github.io/issue/178-2021-06-27"/>
+        <updated>2021-06-27T10:41:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5.20、Windows 11でAndroidアプリが動作可能に、ksp 1.5.20-1.0.0-beta03、KMM Plugin が AppCode に対応、Flutter HooksとJetpack Compose、など</p>
+Kotlin 1.5.20/Windows 11でAndroidアプリが動作可能に/ksp 1.5.20-1.0.0-beta03/KMM Plugin が AppCode に対応/Flutter HooksとJetpack Compose/直接ViewModelを拡張せずに使用する]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#177 2021-06-20]]></title>
+        <id>https://androiddagashi.github.io/issue/177-2021-06-20</id>
+        <link href="https://androiddagashi.github.io/issue/177-2021-06-20"/>
+        <updated>2021-06-20T10:22:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>Now in Android エピソード41、AppSearchの紹介、ImmutableなStateFlowを公開するときにどう書いてる？、など</p>
+Now in Android エピソード41/Xamarin 向けのプレビュー版WindowManager /Android Studio Arctic Fox beta 4/ImmutableなStateFlowを公開するときにどう書いてる？/ネストされたNavigation GraphとJetpack Compose/2021年6月16日のAndroidXリリース/Jetpack Composeの derived stateについて/AppSearchの紹介]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#176 2021-06-13]]></title>
+        <id>https://androiddagashi.github.io/issue/176-2021-06-13</id>
+        <link href="https://androiddagashi.github.io/issue/176-2021-06-13"/>
+        <updated>2021-06-13T10:24:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android 12 Beta 2、FragmentのMultiple back stacksの解説、Kotlin 1.5.20-RC、JetBrains製IDEのパフォーマンスを改善するTIPS、など。</p>
+Android 12 Beta 2/FragmentのMultiple back stacksの解説/Hiltを使ってアプリケーションスコープのCoroutineScope作成/ライブラリのライセンスを検証するGradleプラグイン/Kotlin 1.5.20-RC/JetBrains製IDEのパフォーマンスを改善するTIPS/Google Play手数料30%から15%の値下げの申請開始/Jetpack ComposeでNavigationを使う]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#175 2021-06-06]]></title>
+        <id>https://androiddagashi.github.io/issue/175-2021-06-06</id>
+        <link href="https://androiddagashi.github.io/issue/175-2021-06-06"/>
+        <updated>2021-06-06T10:45:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>Dynamic FeatureモジュールとNavigation Component, Google I/O Extended, Firebase App DistributionがAABをサポート, Compose for Desktop Milestone4, など</p>
+2021年6月2日のAndroidXリリース/ Now in Android エピソード40/Google I/O Extendedの開催予定/Dynamic FeatureモジュールをNavigation Componentで使う/Firebase App DistributionがApp Bundleをサポート/Mirrativ Androidアプリがリアーキテクチャした話/Compose for Desktop Milestone 4/Kotlin Coroutines と Swift]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#174 2021-05-30]]></title>
+        <id>https://androiddagashi.github.io/issue/174-2021-05-30</id>
+        <link href="https://androiddagashi.github.io/issue/174-2021-05-30"/>
+        <updated>2021-05-30T10:29:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5 Online Event、Jetpack Composeのスナップショットについて、Jetpack Compose を使ったデザインシステムの実装、など</p>
+Kotlin 1.5 Online Event/Kotlinの今後の計画/Kotlin Team AMA/IonicはもはやCordovaではない/Jetpack Composeのスナップショットについて/Jetpack Compose を使ったデザインシステムの実装/Compose CompilerがKotlin/Nativeをサポート/Kotlin Multiplatform Mobileの更新情報まとめ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#173 2021-05-23]]></title>
+        <id>https://androiddagashi.github.io/issue/173-2021-05-23</id>
+        <link href="https://androiddagashi.github.io/issue/173-2021-05-23"/>
+        <updated>2021-05-23T10:25:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google I/O 2021が開催 Google I/O、Wear OSのアップデート、Kotlin/Native のメモリ管理に関するアップデート、Android 12 Beta、など</p>
+Kotlin Coroutines 1.5/LiveDataからKotlin Flowへの移行/Android 12 Beta/Google I/O 2021が開催/Jetpack Compose 1.0が7月にリリース/Wear OSのアップデート/Material You/Kotlin/Native のメモリ管理に関するアップデート/Google I/Oアプリの一部がJetpack Compose等に対応]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#172 2021-05-16]]></title>
+        <id>https://androiddagashi.github.io/issue/172-2021-05-16</id>
+        <link href="https://androiddagashi.github.io/issue/172-2021-05-16"/>
+        <updated>2021-05-16T10:42:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2.1、FragmentのMultiple back stacksの対応が完了、バックグラウンドタスクのインスペクター、ストレージAPIの統合ライブラリ、など。</p>
+Android Studio 4.2.1/FragmentのMultiple back stacksの対応が完了/バックグラウンドタスクのインスペクター/ストレージAPIの統合ライブラリ/inline class および value class で kotlinx.serialization (JSON) が動く組み合わせ/Now in Android エピソード39/AndroidDevChallengeのまとめ/CoinbaseがアプリをReactNativeに移行]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#171 2021-05-09]]></title>
+        <id>https://androiddagashi.github.io/issue/171-2021-05-09</id>
+        <link href="https://androiddagashi.github.io/issue/171-2021-05-09"/>
+        <updated>2021-05-09T10:34:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5.0, Jetpack Compose for Web, Coroutine FlowのshareInとstateIn, Dagger Hiltの紹介, Jetpack Composeを利用してコード生成, など</p>
+Jetpack Composeを使ったコンソールUI作成ツール/Kotlin 1.5.0/Jetpack Compose for Web/kotlinx.serialization 1.2/2021年5月5日のAndroidXリリース/Jetpack Compose を利用して非 UIコードを生成する/Coroutine FlowのshareInとstateInで知っておきたいこと/Dagger Hiltでは簡単にDIが行える/kotlinx.coroutines 1.5.0-RC]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#170 2021-05-02]]></title>
+        <id>https://androiddagashi.github.io/issue/170-2021-05-02</id>
+        <link href="https://androiddagashi.github.io/issue/170-2021-05-02"/>
+        <updated>2021-05-02T10:43:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio Arctic Fox Canary 15、Kotlin 1.5の新機能紹介、Google I/O 2021のスケジュールが決定、Android端末でのLet's Encrypt証明書問題が解決、など</p>
+Android Studio Arctic Fox Canary 15/Kotlin coroutines 1.5.0-RC/Kotlin 1.5の新機能紹介/Google I/O 2021のスケジュールが決定/Android端末でのLet's Encrypt証明書問題が解決]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#169 2021-04-25]]></title>
+        <id>https://androiddagashi.github.io/issue/169-2021-04-25</id>
+        <link href="https://androiddagashi.github.io/issue/169-2021-04-25"/>
+        <updated>2021-04-25T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android 12 DP3についての雑感、Scoped Storageまとめ、Hiltが安定バージョンに、Roomで自動マイグレーション、など</p>
+Roomで自動マイグレーションが出来るようになる/Now in Android エピソード38/Android 12 Developer Preview 3/Hiltが安定バージョンに/Scoped Storageまとめ/2021年4月21日のAndroidXリリース/Android 12 DP3についての雑感/KMMケーススタディ: Realm SDK]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#168 2021-04-18]]></title>
+        <id>https://androiddagashi.github.io/issue/168-2021-04-18</id>
+        <link href="https://androiddagashi.github.io/issue/168-2021-04-18"/>
+        <updated>2021-04-18T10:52:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5.0-RC、Kotlin SerializationをDataStoreで使用する、iOSからAndroidのデザインに変換する、Expo v14など。</p>
+Kotlin SerializationをDataStoreで使用する/Kotlin 1.5.0-RC/iOSからAndroidのデザインに変換する/Codecov が不正アクセスされ、Bash Uploader が書き換えられる/Expo v14/BurstをTestParameterInjector置き換える/MVI パターンのイケてないところ/Pull Request のやり方/ライブラリの適切なレイヤリング]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#167 2021-04-11]]></title>
+        <id>https://androiddagashi.github.io/issue/167-2021-04-11</id>
+        <link href="https://androiddagashi.github.io/issue/167-2021-04-11"/>
+        <updated>2021-04-11T10:33:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2 RC1, Google I/O 2021が5/18 - 20に開催, Javaの著作権訴訟にてGoogleがOracleに勝訴, Gradle 7.0, など</p>
+Google I/O 2021が5月18日～20日に開催/Android platformでRustサポート/ユーザーが安全に使えるようにするためのツール/Javaの著作権訴訟にてGoogleがOracleに勝訴/Gradle 7.0/組み込みの冗長性と良いレイヤリングについて/Android Studio 4.2 RC1/モバイルアプリの大規模開発における組織的なソフトウェア改善の一事例と考察/Kotlin Multiplatform での Ktor を使わない通信処理/AVD は何使ってる？]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#166 2021-04-04]]></title>
+        <id>https://androiddagashi.github.io/issue/166-2021-04-04</id>
+        <link href="https://androiddagashi.github.io/issue/166-2021-04-04"/>
+        <updated>2021-04-04T10:38:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5.0-M2、Jetpack Composeの再構成の裏側、Now in Android エピソード37、InflationInject v1.0.0、Android Studio 4.1 で Compose Beta を使う、など</p>
+KotlinのREPLツール/Kotlin 1.5.0-M2/Jetpack Composeの再構成の裏側/特定の端末のみで起こる WebView プチフリーズを Tracing を利用して追った話/フルスクリーン画面対応のこれまでとこれから/Now in Android エピソード37/InflationInject v1.0.0/Android Studio 4.1 で Compose Beta を使う]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#165 2021-03-28]]></title>
+        <id>https://androiddagashi.github.io/issue/165-2021-03-28</id>
+        <link href="https://androiddagashi.github.io/issue/165-2021-03-28"/>
+        <updated>2021-03-28T10:23:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Lint API Guide、メモリリークの仕組みと検知方法、PendingIntentの解説、FlowをUIで安全に処理する方法、など</p>
+DroidKaigi 2021開催予定/React Native 0.64/PendingIntentの解説/FlowをUIで安全に処理する方法/LiveDataはDeprecatedではない/2021年3月24日のAndroidXリリース/Android Lint API Guide/メモリリークの仕組みと検知方法/FlowのtryEmit関数について/Cash AppでのKotlin Multiplatform Mobileの事例]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#164 2021-03-21]]></title>
+        <id>https://androiddagashi.github.io/issue/164-2021-03-21</id>
+        <link href="https://androiddagashi.github.io/issue/164-2021-03-21"/>
+        <updated>2021-03-21T10:42:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android 12 Developer Preview 2、RenderEffectを使ってViewをぼかす、Google Playの手数料が100万ドルまで15%に、Jetpack Composeの副作用の解説、など</p>
+Android 12 Developer Preview 2/RenderEffectを使ってViewをぼかす/Google Playの手数料が100万ドルまで15%に/MAD Skills: WorkManagerの高度な機能/Jetpack Composeの副作用の解説/Android Studio 4.1.3/Android Studio Arctic Fox Canary 10/Now in Android エピソード36]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#163 2021-03-14]]></title>
+        <id>https://androiddagashi.github.io/issue/163-2021-03-14</id>
+        <link href="https://androiddagashi.github.io/issue/163-2021-03-14"/>
+        <updated>2021-03-14T10:19:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2 Beta 6, ComposeのAPIガイドライン, スクリーンショットテストをプロダクトに導入する中で倒してきた課題, GradleのincludeBuildの紹介, など</p>
+2021年3月10日のAndroidXリリース/Android Studio 4.2 Beta 6/Android Studio Arctic Fox Canary 9/FlutterでWidgetのサイズどうやって設定してる？/FlutterはなぜButtonを一新したのか/ComposeのAPIガイドライン/Jetpack Tiles ライブラリでWear OSのカスタムTileを作る/スクリーンショットテストを3つのプロダクトに導入する中で倒してきた課題/Androidファームウェアをビルドするマシンをつくる/GradleのincludeBuildの紹介]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#162 2021-03-07]]></title>
+        <id>https://androiddagashi.github.io/issue/162-2021-03-07</id>
+        <link href="https://androiddagashi.github.io/issue/162-2021-03-07"/>
+        <updated>2021-03-07T10:06:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.5.0-M1、Flutter 2、Coroutinesのベストプラクティス、Now in Android エピソード35、Androidにおけるオーディオレイテンシ、など</p>
+Coroutinesのベストプラクティス/Kotlin 1.5.0-M1/MAD Skills: WorkManagerの基本/Cars App LibraryがJetpackに/Now in Android エピソード35/Android Dev Challenge 第2週/Flutter 2/Androidにおけるオーディオレイテンシ/Kotlinで使える便利なIntellijの機能/Kotlin Multiplatform MobileによってWantedlyのiOS開発がどう変わったか]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#161 2021-02-28]]></title>
+        <id>https://androiddagashi.github.io/issue/161-2021-02-28</id>
+        <link href="https://androiddagashi.github.io/issue/161-2021-02-28"/>
+        <updated>2021-02-28T10:11:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>Jetpack Compose Beta、DroidKaigi 2021のアプリ公開、Squareにおける素早くPRをマージするための工夫、など</p>
+Squareにおける素早くPRをマージするための工夫/Kotlin coroutineの並列処理テストツール/Android Studio 4.2 beta 5/Android Studio Arctic Fox Canary 8/Deprecatedアノテーションがdeprecatedになる/Jetpack Compose Beta/Jetpack ComposeのAndroid Dev Challengeが開催/Dagger 2.33/Android向けSleep APIの紹介/Jetpack Composeを使ったデザインシステム/DroidKaigi 2021のアプリ公開]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#160 2021-02-21]]></title>
+        <id>https://androiddagashi.github.io/issue/160-2021-02-21</id>
+        <link href="https://androiddagashi.github.io/issue/160-2021-02-21"/>
+        <updated>2021-02-21T10:15:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android 12 Developer Preview 1、RoomがKSPをサポート、Now in Android エピソード34、Jetpack Composeのパッケージ名からandroidxを落とす署名運動、など。</p>
+Android 12 Developer Preview 1/RoomがKSPをサポート/Android Studio Arctic Fox Canary 7/Android 12でandroid:exportedの明示的な指定が必要/Now in Android エピソード34/Jetpack WindowManager alpha02の紹介/Jetpack Composeのパッケージ名からandroidxを落とす署名運動/Android 12のUnified rich content apiの解説]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#159 2021-02-14]]></title>
+        <id>https://androiddagashi.github.io/issue/159-2021-02-14</id>
+        <link href="https://androiddagashi.github.io/issue/159-2021-02-14"/>
+        <updated>2021-02-14T10:44:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>Jetpack Composeをアプリに導入する準備を整える, KSP Alphaリリース, Dropboxアプリの起動時間を30%高速化, JetBrains製静的解析ツールQodana, など</p>
+KSP Alphaリリース/Dropboxの起動時間を30%高速化/Mavericks (MvRx) 2.0/JetBrains製IDEの静的解析をCIでも。QodanaのEAPが開始/2021年2月10日のAndroidXリリース/Android Studio Arctic Fox Canary 6/GoogleがRust Foundationに参加/KMMケーススタディ: Down Dog/Jetpack Composeをアプリに導入する準備を整える]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#158 2021-02-07]]></title>
+        <id>https://androiddagashi.github.io/issue/158-2021-02-07</id>
+        <link href="https://androiddagashi.github.io/issue/158-2021-02-07"/>
+        <updated>2021-02-07T10:20:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>Now in Androidエピソード33、Kotlin 1.4.30、5/1にBintray、JCenterが終了、Fragmentを使うときにやりがちの7つの間違い、など</p>
+Now in Androidエピソード33/CoroutinesとJVMスレッド/Kotlin 1.4.30/5/1にBintray、JCenterが終了/material android 1.3.0のリリース/Kotlin/Native向けにCoroutineのラッパークラスを生成するライブラリ、koru/Fragmentを使うときにやりがちな7つの間違い/buildSrcを使う際にKotlinバージョンが不一致になる罠/ViewBinding を用いた View の操作をユニットテストする]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#157 2021-01-31]]></title>
+        <id>https://androiddagashi.github.io/issue/157-2021-01-31</id>
+        <link href="https://androiddagashi.github.io/issue/157-2021-01-31"/>
+        <updated>2021-01-31T10:19:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin Coroutineを使うときにやりがちな7つの間違い、Kotlin Standard Library Safari: Strings、マルチプロセスアプリでWorkManager、など</p>
+Kotlin Coroutineを使うときにやりがちな7つの間違い/Android Studio Arctic Fox Canary 5/RxJava vs. Coroutines/Android Studio 4.2 beta 4/Kotlin Standard Library Safari: Strings/マルチプロセスアプリでWorkManager/ObjectAnimatorやMotionLayoutなどのアニメーションの解説/マネーフォワードクラウド確定申告Androidアプリの設計方針/2021年1月27日のAndroidXリリース/WEARのAndroidアプリをBottomNavigationにリプレイスした際の状態保存について]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#156 2021-01-24]]></title>
+        <id>https://androiddagashi.github.io/issue/156-2021-01-24</id>
+        <link href="https://androiddagashi.github.io/issue/156-2021-01-24"/>
+        <updated>2021-01-24T10:24:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.1.2、Kotlin 1.4.30-RC、FragmentのMultiple back stacksの対応が開始、Kotlin 1.5のsealed classes、interfacesの解説、など。</p>
+Android Studio 4.1.2/Kotlin 1.4.30-RC/FragmentのMultiple back stacksの対応が開始/Kotlin 1.5のsealed classes、interfacesの解説/Dagger HiltのViewModelComponentの解説/Kotlin Multiplatformのアンケート結果]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#155 2020-01-17]]></title>
+        <id>https://androiddagashi.github.io/issue/155-2020-01-17</id>
+        <link href="https://androiddagashi.github.io/issue/155-2020-01-17"/>
+        <updated>2021-01-17T10:20:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>Dagger 2.31, Material Components 1.3.0-rc01, Flutterのintegration testに関するアップデート, Now in Androidエピソード32, など</p>
+Dagger 2.31/2021年1月13日のAndroidXリリース/Material Components 1.3.0-rc01/マルチプロセスなアプリでAndroidX App Startupを使うときの注意点/Flutterのintegration testに関するアップデート/MAD Skills Kotlin and Jetpackのまとめ/Now in Androidエピソード32/ノーコードで作られたTwitterクライアントアプリ、MarinDeck/Naming Cheatsheet/MVIアーキテクチャでKotlin FlowとChannelを使う]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#154 2020-01-10]]></title>
+        <id>https://androiddagashi.github.io/issue/154-2020-01-10</id>
+        <link href="https://androiddagashi.github.io/issue/154-2020-01-10"/>
+        <updated>2021-01-10T10:27:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio Arctic Fox Canary 4、Android Studio 4.2 beta 3、KotlinとJetpack APIのLive Q&amp;A、WorkManager - Kotlin APIs、など</p>
+In-App Review APIでAndroidアプリレビューがめちゃくちゃ改善した話/Android Studio Arctic Fox Canary 4/Android Studio 4.2 beta 3/Compose CompilerがGitHub上でコントリビュート可能に/KotlinとJetpack APIのLive Q&A/Kotlinの継承とコンポジション/WorkManager - Kotlin APIs]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#153 2021-01-03]]></title>
+        <id>https://androiddagashi.github.io/issue/153-2021-01-03</id>
+        <link href="https://androiddagashi.github.io/issue/153-2021-01-03"/>
+        <updated>2021-01-03T10:31:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 2.0で欲しい機能、Jetpack Composeの名前変更の提案、モジュール化とナビゲーションのアンチパターン、など</p>
+折り紙でドロイド君を作る/Jetpack Composeの名前変更の提案/Kotlin 2.0で欲しい機能/Alt Dartを作りたい/マテリアルデザインのホームページから実装が見れるようになる/モジュール化とナビゲーションのアンチパターン/Coroutines Jobの構造を理解する]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#152 2020-12-27]]></title>
+        <id>https://androiddagashi.github.io/issue/152-2020-12-27</id>
+        <link href="https://androiddagashi.github.io/issue/152-2020-12-27"/>
+        <updated>2020-12-27T11:13:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.4.30-M1、Kotlin Multiplatform Projectを導入してみて、2020年のAndroid開発を振り返ろう、MockKの「黒魔術」を解明する、など。</p>
+Kotlin 1.4.30-M1/Kotlin Multiplatform Projectを導入してみて/Flutter, JetpackCompose, SwiftUIの三種の宣言的UIフレームワークを比較してみる/2020年のAndroid開発を振り返ろう/2020年のRadiotalk Androidアプリの開発現場/MockKの「黒魔術」を解明する/Wantedly VisitにおけるKotlin Multiplatformの導入と実装/2020年におけるAndroid開発の現状]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#151 2020-12-20]]></title>
+        <id>https://androiddagashi.github.io/issue/151-2020-12-20</id>
+        <link href="https://androiddagashi.github.io/issue/151-2020-12-20"/>
+        <updated>2020-12-20T10:30:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2 beta2, Jetpack Composeに移行前と移行後, MVVMとMVI, 個人開発者としてアプリをどうやって宣伝/マーケティングしてる？, MAD score, など</p>
+Android Studio 4.2 beta 2/Android Studio Arctic Fox Canary 3/MAD scoreでモダンかを計測/Jetpack Composeに移行前と移行後/2020年12月16日のAndroidXリリース/Now in Android エピソード31/Compose Desktopを使ったTodoサンプルアプリ/個人開発者としてアプリをどうやって宣伝/マーケティングしてる？/MVVMとMVI/Jetpack DataStoreをProtobufではなくKotlin Serializationで使用する/KtLint + Spotless + GitHub ActionsでPRにsuggested changeさせる]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#150 2020-12-13]]></title>
+        <id>https://androiddagashi.github.io/issue/150-2020-12-13</id>
+        <link href="https://androiddagashi.github.io/issue/150-2020-12-13"/>
+        <updated>2020-12-13T10:44:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.4.21、MAD Skills: Material Componentsのまとめ、KotlinのDeep Learning framework、Jetifierにさよならを、App Startupの解説シリーズ、など</p>
+Kotlin 1.4.21/Jetpack ComposeでFlappy Bird/MAD Skills: Material Componentsのまとめ/KotlinのDeep Learning framework/売れるアプリにするコツ100個/Cookpadにおける基本のAndroid View 実装ドキュメントの紹介/MirrativのAndroid アプリで使っているライブラリ/Jetifierにさよならを/App Startupの解説シリーズ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#149 2020-12-06]]></title>
+        <id>https://androiddagashi.github.io/issue/149-2020-12-06</id>
+        <link href="https://androiddagashi.github.io/issue/149-2020-12-06"/>
+        <updated>2020-12-06T10:29:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio Arctic Fox、Google Play ベスト オブ 2020、Dropboxにおけるテスト環境の改善など</p>
+Apple Silicon対応エミュレータ/Android Studio Arctic Fox (2020.3.1)/Android Gradle plugin 7.0.0-alpha01/Google Play ベスト オブ 2020/Dropboxにおけるテスト環境の改善/Now in Android エピソード30/Jetpack Compose for Desktop milestone 2/Android Studio 4.2 beta 1/Jetpack ComposeでアニメーションIMEに対応する]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#148 2020-11-29]]></title>
+        <id>https://androiddagashi.github.io/issue/148-2020-11-29</id>
+        <link href="https://androiddagashi.github.io/issue/148-2020-11-29"/>
+        <updated>2020-11-29T10:37:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>Fragmentの公式ドキュメントが完全刷新される、Kotlin Android Extensionsの今後、アプリ起動時のパフォーマンステスト、など。</p>
+Fragmentの公式ドキュメントが完全刷新される/Android 12からARTがMainlineのモジュールに/Kotlin Android Extensionsの今後/アプリ起動時のパフォーマンステスト/DaggerからHiltへ移行する価値はあるか？/App Bundle動画まとめ/マテリアルデザインコンポーネントの解説動画/GitLiveでのKotlin Multiplatform Projectの事例]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#147 2020-11-22]]></title>
+        <id>https://androiddagashi.github.io/issue/147-2020-11-22</id>
+        <link href="https://androiddagashi.github.io/issue/147-2020-11-22"/>
+        <updated>2020-11-22T10:26:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>ConstraintLayout 2.1.0 alpha 1, Coroutine FlowのAndroid公式ドキュメント, FlowMarbles, 2021年8月から新規アプリはAppBundleが必須に, Kotlin 1.4.20, など</p>
+ConstraintLayout 2.1.0 alpha 1/Coroutine FlowのAndroid公式ドキュメント/2021年8月より新規アプリはAppBundleが必須に/Dagger 2.30/Kotlin 1.4.20/Kotlin Coroutiensの各オペレータの処理を可視化するサイト/2020年のクックパッドAndroidアプリのアーキテクチャ事情/バックグラウンド位置情報にアクセスするアプリの審査を円滑に進めるためのヒント/Trello AndroidアプリのGitブランチ運用]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#146 2020-11-15]]></title>
+        <id>https://androiddagashi.github.io/issue/146-2020-11-15</id>
+        <link href="https://androiddagashi.github.io/issue/146-2020-11-15"/>
+        <updated>2020-11-15T10:21:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>App Bundle Q&amp;A、Now in Android エピソード29、App Bundleのテスト、Android Studio 4.1.1、実践的なDagger Hilt + Kotlin解説、など</p>
+App Bundle Q&A/Now in Android エピソード29/PyTorchがAndroidのNNAPIに対応/AOSPのビルドシステムがBazelに移行/App Bundleのテスト/Android Studio 4.1.1/実践的なDagger Hilt + Kotlin解説/Android Studioをリモートで実行する]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#145 2020-11-08]]></title>
+        <id>https://androiddagashi.github.io/issue/145-2020-11-08</id>
+        <link href="https://androiddagashi.github.io/issue/145-2020-11-08"/>
+        <updated>2020-11-08T10:31:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Developers Japan Blog開設、Android App Bundleの利点、Compose for Desktop、など。</p>
+Android Developers Japan Blog開設/AndroidフレームワークとGoogleのライブラリのソースコードリンク集/Compose for Desktop/Android App Bundleの利点/Kotlin 1.4 Online Eventのまとめ/変更が含まれるモジュールとその依存関係のみテストを実行するGradle Plugin/Android Studio 4.2 Canary 16/APIの可視性とKotlin]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#144 2020-11-01]]></title>
+        <id>https://androiddagashi.github.io/issue/144-2020-11-01</id>
+        <link href="https://androiddagashi.github.io/issue/144-2020-11-01"/>
+        <updated>2020-11-01T10:02:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin Coroutines 1.4.0、LeakCanaryとAndroid Studioのメモリリーク検知の方法、Navigation componentをサポートするComposeプラグインがリリース、など。</p>
+Android Studio 4.2 Canary 15/Kotlin開発チームによるAMA/Kotlin Coroutines 1.4.0/LeakCanaryとAndroid Studioのメモリリーク検知の方法/Navigation componentをサポートするComposeプラグインがリリース/Now in Android エピソード28/Navigation Component Q&A/PagingのComposeサポート/NetflixがKotlin Multiplatformを採用]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#143 2020-10-25]]></title>
+        <id>https://androiddagashi.github.io/issue/143-2020-10-25</id>
+        <link href="https://androiddagashi.github.io/issue/143-2020-10-25"/>
+        <updated>2020-10-25T10:21:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>Jetpack Composeの状態管理, Kotlin 1.4.20-M2, Coil 1.0, Kotlin Cocabulary動画シリーズ, など</p>
+Android Studio 4.2 Canary 14/Kotlin 1.4.20-M2/Coil 1.0/Jetpack Composeの状態管理/Kotlin Vocabulary動画シリーズ/4年間Android開発やってるけど、この辺でAndroidを学びなおしたいと思う/サードパーティ製のアプリストアに勝手にアプリを掲載された話/Kotlinの拡張関数と拡張プロパティを利用して可読性を上げる/Navigation ComponentとDeppLink]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#142 2020-10-18]]></title>
+        <id>https://androiddagashi.github.io/issue/142-2020-10-18</id>
+        <link href="https://androiddagashi.github.io/issue/142-2020-10-18"/>
+        <updated>2020-10-18T10:36:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.1、2020年10月14日のAndroidXリリース、Kotlin 1.4 Online Event、GDG DevFest 2020、Flutter はプロダクション開発に耐えうるのか、など</p>
+Android Studio 4.1/GitHubでコントリビュートできるAndroidXライブラリが追加/Coroutines 1.4.0-M1/エントリーレベルのAndroid開発職の面接で聞かれることって？/Gradle 6.7/MAD Skillsシリーズ/2020年10月14日のAndroidXリリース/Kotlin 1.4 Online Event/REALITY Androidで使っている技術/Now in Android エピソード27/Flutter はプロダクション開発に耐えうるのか/GDG DevFest 2020]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#141 2020-10-11]]></title>
+        <id>https://androiddagashi.github.io/issue/141-2020-10-11</id>
+        <link href="https://androiddagashi.github.io/issue/141-2020-10-11"/>
+        <updated>2020-10-11T10:23:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlinのロードマップが公開、Kotlinのリリースサイクルが変更、入れ子のPopupMenuを作るライブラリ、kotlinx.serialization 1.0、など</p>
+Android Studio 4.0.2 /Kotlinのロードマップが公開/ConstraintLayoutのソースコードがGitHubで公開/Kotlinのリリースサイクルが変更/kotlinx.serialization 1.0/リモートコンフィグのバージョン指定の改善/入れ子のPopupMenuを作るライブラリ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#140 2020-10-04]]></title>
+        <id>https://androiddagashi.github.io/issue/140-2020-10-04</id>
+        <link href="https://androiddagashi.github.io/issue/140-2020-10-04"/>
+        <updated>2020-10-04T10:30:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>パフォーマンス神話の検証、Google Playのフィードバック反映、2020年10月1日のAndroidXリリース、マテリアルデザインから得られる10個のポイント、など。</p>
+Android Studio 4.2 Canary 13/パフォーマンス神話の検証/Google Playのフィードバック反映/Android 11 Meetups全8回が終了/Now in Android エピソード26/2020年10月1日のAndroidXリリース/Flutter 1.22/マテリアルデザインから得られる10個のポイント]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#139 2020-09-27]]></title>
+        <id>https://androiddagashi.github.io/issue/139-2020-09-27</id>
+        <link href="https://androiddagashi.github.io/issue/139-2020-09-27"/>
+        <updated>2020-09-27T10:22:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2 Canary 12, 11月2日から新Play Consoleが全員に適用, 複数モジュール環境でのビルド時間の短縮, 認証モデルとAndroid11の改善点, など</p>
+Android Studio 4.2 Canary 12/Kotlin Multiplatform Project対応なNoSQL DB, Kodein-DBがリリース/複数モジュール環境でのビルド時間の短縮/KotlinのCompile avoidanceとIncremental compilation/認証モデルとAndroid 11の改善点/2020年11月2日から新Google Play Consoleが全開発者に適用/Single Activityな構成でToolbarをどう処理するか/androidx.datastoreの暗号化/Flutterは本当に"未来"なのか？]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#138 2020-09-20]]></title>
+        <id>https://androiddagashi.github.io/issue/138-2020-09-20</id>
+        <link href="https://androiddagashi.github.io/issue/138-2020-09-20"/>
+        <updated>2020-09-20T10:34:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>Google PayのFlutter版がオープンベータを一部地域で開始、Now in Android エピソード25、CI/CDでAndroid Emulatorのコンテナを使う、など</p>
+Android Studio 4.2 Canary 11/Android Studio 4.1 RC 3/Jetpack Compose開発者による動画コンテンツ/Google PayのFlutter版がオープンベータを一部地域で開始/Now in Android エピソード25/CI/CDでAndroid Emulatorのコンテナを使う]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#137 2020-09-13]]></title>
+        <id>https://androiddagashi.github.io/issue/137-2020-09-13</id>
+        <link href="https://androiddagashi.github.io/issue/137-2020-09-13"/>
+        <updated>2020-09-13T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>プライバシー保護のベストプラクティス、MotionLayoutの各タグを紹介する動画シリーズ、Kotlin 1.4.10、Android 11のリリース、など</p>
+Android 11のリリース/Kotlin 1.4.10/Dagger 2.29.1/MotionLayoutの各タグを紹介する動画シリーズ/React Nativeをやめる話とKotlin Multiplatform/Android Studio 4.2 Canary 10/プライバシー保護のベストプラクティス/Kotlin 1.4 オンラインイベント]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#136 2020-09-06]]></title>
+        <id>https://androiddagashi.github.io/issue/136-2020-09-06</id>
+        <link href="https://androiddagashi.github.io/issue/136-2020-09-06"/>
+        <updated>2020-09-06T10:50:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>リソースの最適化でアプリサイズを小さくする、ARTのStructural Class Redefinition機能、Jetpack DataStore、Kotlin Multiplatform Mobile Alpha、など</p>
+Android Studio 4.1 RC2/リソースの最適化でアプリサイズを小さくする/Now in Android エピソード24/ARTのStructural Class Redefinition機能/Jetpack DataStore/11 Weeks of Androidまとめ/Kotlin Multiplatform Mobile Alpha/SquareがViewの階層を出力するライブラリを公開]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#135 2020-08-30]]></title>
+        <id>https://androiddagashi.github.io/issue/135-2020-08-30</id>
+        <link href="https://androiddagashi.github.io/issue/135-2020-08-30"/>
+        <updated>2020-08-30T10:31:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android Studio 4.2 Canary8, Jetpack Compose Alpha, Kotlin Coroutinesの例外処理を理解する, Android Jetpack &amp; Compose AMA, など</p>
+11 Weeks of Android: UI and Compose/Jetpack Compose Alpha/Jetpack & Jetpack Compose AMAの回答/Jetpack Composeを一覧化するShowkaseライブラリ/Kotlin Coroutinesの例外処理を理解する/2020年8月における minne Android アプリの開発状況/Flutter を MVVM で実装する/Flutterの状態管理手法の選定(2020年8月版)/Mastodonクライアントアプリに削除警告/Android Studio 4.2 Canary 8/Material Design Componentsを使うメリット]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#134 2020-08-23]]></title>
+        <id>https://androiddagashi.github.io/issue/134-2020-08-23</id>
+        <link href="https://androiddagashi.github.io/issue/134-2020-08-23"/>
+        <updated>2020-08-23T10:21:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>Fragmentの内部実装が全面的にリニューアル、ConstraintLayout 2.0.0、Now in Android エピソード23、Kotlin 1.4 Online Event、など</p>
+Fragmentの内部実装が全面的にリニューアル/kotlinx-datetimeリリース/ConstraintLayout 2.0.0/11 Weeks of Android: Games, media, and 5G/Jetpack & Jetpack Compose AMA/Kotlin 1.4 Release/Kotlin 1.4 Online Event/Kotlin Coroutines 1.3.9/Now in Android エピソード23]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#133 2020-08-16]]></title>
+        <id>https://androiddagashi.github.io/issue/133-2020-08-16</id>
+        <link href="https://androiddagashi.github.io/issue/133-2020-08-16"/>
+        <updated>2020-08-16T10:30:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.4、DroidKaigi 2020 Lite、Jetifierを無効にする、ChromeOSの開発者向けサイト、など</p>
+Android Studio 4.1 RC 1/DroidKaigi 2020 Lite/11 Weeks of Android: Beyond phones/Kotlin 1.4/ChromeOSの開発者向けサイト/Jetifierを無効にする/Uriの利用可能期間]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#132 2020-08-09]]></title>
+        <id>https://androiddagashi.github.io/issue/132-2020-08-09</id>
+        <link href="https://androiddagashi.github.io/issue/132-2020-08-09"/>
+        <updated>2020-08-09T10:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>Android 11 final Beta、Android 11 Easter Egg、アプリ内レビューAPI、Android7.1以前でLet's Encrypt証明書のサイトが見られなくなる、など。</p>
+Material Components 1.2.0/Android 11 final Beta/Android 11 Easter Egg/2020年8月5日のAndroidXリリース/アプリ内レビューAPI/Kotlin Symbol Processingを使ったDIライブラリ/Android7.1以前でLet's Encrypt証明書のサイトが見られなくなる/Kotlin Coroutine Flowのテストライブラリ/11 Weeks of Android: App Distribution & Monetization/Maven Centralで特定のバージョンのライブラリが利用可能になったら知らせてくれるツール/Jetpack ComposeとFilamentを使ったサンプル実装/Flutter 1.2.0]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#131 2020-08-02]]></title>
+        <id>https://androiddagashi.github.io/issue/131-2020-08-02</id>
+        <link href="https://androiddagashi.github.io/issue/131-2020-08-02"/>
+        <updated>2020-08-02T10:17:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>Kotlin 1.4.0-RC, Android Studio 4.2 Canary7, OOUIでアプリUIを改善した話, MotionLayoutを使ってTinderぽいスワイプ, Jetpack Composeデスクトップ, など</p>
+Kotlin 1.4.0-RC/Android Studio 4.2 Canary 6/Android Studio 4.2 Canary 7/Now in Android エピソード22/Android StudioチームへのAMA/Material Motionのコードラボ/MotionLayoutを使ってTinderっぽいスワイプを作る/Jetpack Composeデスクトップ/11 Weeks of Android: Android Developer Tools/ConstraintLayout 2.0.0 rc1/OOUIでアプリUIを改善した話/Kotlin Coroutinesをデバッグする]]></summary>
+    </entry>
+</feed>
